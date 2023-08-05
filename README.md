@@ -16,11 +16,17 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mdarfealam36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdarfealam36" height="30" width="40" /></a>
+  
 <a href="https://twitter.com/mdarfealam36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdarfealam36" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/mdarfealam36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdarfealam36" height="30" width="40" /></a>
+
 <a href="https://fb.com/mdarfealam36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdarfealam36" height="30" width="40" /></a>
+
 <a href="https://instagram.com/mdarfealam36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdarfealam36" height="30" width="40" /></a>
+
 <a href="https://medium.com/mdarfealam36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mdarfealam36" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/android rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="android rider" height="30" width="40" /></a>
 </p>
 
