@@ -33,13 +33,7 @@ I'm a software enthusiast who fell in love with Android's potential to bring ide
 <!--- Counter --->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdarfealam36&" alt="mdarfealam36" /></p>
 
-## Hit me On
-<a href="https://www.instagram.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262981944-eec5426f-d6df-43ee-95fa-8afe22152b25.png" width="50"></a>
-<a href="https://www.facebook.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262981980-43c667ae-76ce-47e0-b055-5c6ff16970fc.png" width="50"></a>
-<a href="https://twitter.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982005-2fc53417-33a6-479f-ae8c-b63691e1285e.png" width="50"></a>
-<a href="https://www.linkedin.com/in/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262982049-13872565-f98b-4f04-9b8c-b876e170e002.png" width="50"></a>
-<a href="https://github.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982027-567441b5-aa5b-42b3-a20a-b3174e32bd56.png" width="50"></a>
-</p>
+
 
 
 ## Highlights
@@ -47,19 +41,24 @@ I'm a software enthusiast who fell in love with Android's potential to bring ide
 The Notes App is a simple application that allows users to create, view, update, and delete notes. Users can organize their thoughts, ideas, and tasks using this app. 
 The app follows the MVVM (Model-View-ViewModel) architectural pattern and utilizes the Android Navigation Component for smooth navigation between different screens.
 
-<p><b>GitHub:</b> [Click Here](https://github.com/AndroidRider/Notes) </p>
+<p><b>GitHub:</b> https://github.com/AndroidRider/Notes </p>
 <p><b></b></p>
 
 
-
 ## Let's Connect
-I'm excited to be a part of the vibrant developer community. If you have any questions, suggestions, or just want to chat about Android development, feel free to reach out to me on LinkedIn or Twitter.
+I'm excited to be a part of the vibrant developer community. If you have any questions, suggestions, or just want to chat about Android development, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mdarfealam36/) or [Twitter](https://twitter.com/mdarfealam36).
 
 If you find any of my projects helpful, consider giving them a star ⭐ to show your support!
 
 Happy coding! 🚀
 
-
+## Hit me On
+<a href="https://www.instagram.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262981944-eec5426f-d6df-43ee-95fa-8afe22152b25.png" width="50"></a>
+<a href="https://www.facebook.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262981980-43c667ae-76ce-47e0-b055-5c6ff16970fc.png" width="50"></a>
+<a href="https://twitter.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982005-2fc53417-33a6-479f-ae8c-b63691e1285e.png" width="50"></a>
+<a href="https://www.linkedin.com/in/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262982049-13872565-f98b-4f04-9b8c-b876e170e002.png" width="50"></a>
+<a href="https://github.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982027-567441b5-aa5b-42b3-a20a-b3174e32bd56.png" width="50"></a>
+</p>
 
 
 
