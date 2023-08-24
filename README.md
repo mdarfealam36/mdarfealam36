@@ -41,11 +41,7 @@ I'm a software enthusiast who fell in love with Android's potential to bring ide
 The Notes App is a simple application that allows users to create, view, update, and delete notes. Users can organize their thoughts, ideas, and tasks using this app. 
 The app follows the MVVM (Model-View-ViewModel) architectural pattern and utilizes the Android Navigation Component for smooth navigation between different screens.
 
-<p><b>GitHub:</b>[Click Here](https://github.com/AndroidRider/Notes)</p>
-
 <p><b>GitHub:</b> https://github.com/AndroidRider/Notes </p>
-<p><b></b></p>
-
 
 ## Let's Connect
 I'm excited to be a part of the vibrant developer community. If you have any questions, suggestions, or just want to chat about Android development, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mdarfealam36/) or [Twitter](https://twitter.com/mdarfealam36).
@@ -62,10 +58,8 @@ Happy coding! 🚀
 <a href="https://github.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982027-567441b5-aa5b-42b3-a20a-b3174e32bd56.png" width="50"></a>
 </p>
 
-
-
-
-
-
+<!--- 
 <p align="left"> <a href="https://twitter.com/mdarfealam36" target="blank">
   <img src="https://img.shields.io/twitter/follow/mdarfealam36?logo=twitter&style=for-the-badge" alt="mdarfealam36" /></a> </p>
+  --->
+
