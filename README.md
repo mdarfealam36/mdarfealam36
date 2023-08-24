@@ -28,8 +28,6 @@ I'm a software enthusiast who fell in love with Android's potential to bring ide
 <a href="https://github.com/mdarfealam36"><img src="" width="50"></a></p>
 <a href="https://github.com/mdarfealam36"><img src="" width="50"></a></p>
 
-![firebase](https://github.com/AndroidRider/Splash-App/assets/140700822/2a6317ce-dda0-496b-89aa-64f219577fcd)
-![android](https://github.com/AndroidRider/Splash-App/assets/140700822/4462dcc4-99a4-4da4-9d73-82e3192f0f6d)
 
 ## Hit me On
 <a href="https://www.instagram.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262981944-eec5426f-d6df-43ee-95fa-8afe22152b25.png" width="50"></a>
