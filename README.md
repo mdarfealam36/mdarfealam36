@@ -18,10 +18,7 @@ I'm a software enthusiast who fell in love with Android's potential to bring ide
 - <p> <b>Learning and Growth:</b> I believe in continuous learning. You might come across experimental projects where I'm exploring new libraries, concepts, or design ideas. Your feedback is always welcome!</p>
 
 ## Languages and Tools:
-
-<a href="https://www.instagram.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/263026317-4513a0d7-41a7-45c1-9fee-81ccc805e943.png
-" width="50"></a>
-<a href="https://www.facebook.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/263026844-79a9929f-0ccb-4211-b7da-dfab5ec340df.png" width="50"></a>
+<a href="https://www.facebook.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/263032128-c7302b5a-8384-44f8-b44d-297529ae2bee.png" width="50"></a>
 
 <a href="https://twitter.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982005-2fc53417-33a6-479f-ae8c-b63691e1285e.png" width="50"></a>
 <a href="https://www.linkedin.com/in/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262982049-13872565-f98b-4f04-9b8c-b876e170e002.png" width="50"></a>
