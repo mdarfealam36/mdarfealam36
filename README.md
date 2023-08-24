@@ -19,11 +19,13 @@ I'm a software enthusiast who fell in love with Android's potential to bring ide
 
 ## Languages and Tools:
 <a href="https://www.facebook.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/263032128-c7302b5a-8384-44f8-b44d-297529ae2bee.png" width="50"></a>
+<a href="https://twitter.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/263033507-e0623352-f8be-42b8-a2e0-102d06e17bc2.png" width="50"></a>
+<a href="https://www.linkedin.com/in/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/263033476-cd2c3690-964f-433b-88ca-1b5f335959a0.png" width="50"></a>
 
-<a href="https://twitter.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982005-2fc53417-33a6-479f-ae8c-b63691e1285e.png" width="50"></a>
-<a href="https://www.linkedin.com/in/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262982049-13872565-f98b-4f04-9b8c-b876e170e002.png" width="50"></a>
 <a href="https://github.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982027-567441b5-aa5b-42b3-a20a-b3174e32bd56.png" width="50"></a>
 </p>
+
+
 
 ## Hit me On
 <a href="https://www.instagram.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262981944-eec5426f-d6df-43ee-95fa-8afe22152b25.png" width="50"></a>
